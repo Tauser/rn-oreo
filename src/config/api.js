@@ -1,7 +1,7 @@
 export const API = 'https://braziliangourmet.co.uk/orderonline';
 
-export const CONSUMER_KEY = 'ck_41211091a2eb63a0c0cd47bb4d320654d533f241';
-export const CONSUMER_SECRET = 'cs_f40a84cfaaef5a96fcc0757587d943ca880f6388';
+export const CONSUMER_KEY = 'ck_d995fc8a9cd948f87409b7fdc0346cd7b67b3270';
+export const CONSUMER_SECRET = 'cs_1c528ce6a2b0c81729482a422a2491161324c6d3';
 
 export default {
   API_ENDPOINT: API,
